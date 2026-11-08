@@ -95,10 +95,6 @@
 3. Dans les paramètres Android, activez **Metadidomi Board** dans **Langues et saisie** > **Clavier à l’écran** (le chemin peut varier selon l’appareil).
 4. Sélectionnez **Metadidomi Board** comme clavier actif, puis ouvrez un champ de texte.
 
-## Générer un APK ou un AAB
-
-Pour consulter la procédure de préparation et de compilation, rendez-vous sur le dépôt [Metadidomi-Builder](https://github.com/METADIDOMIOFFICIEL/Metadidomi-Builder).
-
 ## Confidentialité
 
 Les suggestions et corrections intégrées sont traitées localement. La traduction en ligne transmet le texte à traduire au service de traduction utilisé par l’application. La dictée vocale dépend du service de reconnaissance vocale configuré sur l’appareil.
@@ -111,4 +107,4 @@ MBoard est distribué sous la licence **GNU General Public License, version 2.0 
 
 ## En savoir plus
 
-[Site officiel](https://metadidomi-global.com/) · [Dépôt Metadidomi-Builder](https://github.com/METADIDOMIOFFICIEL/Metadidomi-Builder)
+[Site officiel](https://metadidomi-global.com/) ·
