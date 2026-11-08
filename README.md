@@ -90,7 +90,7 @@
 
 ## Installer et activer MBoard
 
-1. Obtenez l’application ou générez son APK/AAB avec le projet [Metadidomi-Builder](https://github.com/METADIDOMIOFFICIEL/Metadidomi-Builder).
+1. Obtenez l’application ou générez son APK/AAB avec le projet [Metadidomi-Builder](https://github.com/METADIDOMIOFFICIEL/Metadidomi-Builder). en décompressant le dossier (res) où il est actuelement.
 2. Installez l’application sur un appareil Android 7.0 (API 24) ou ultérieur.
 3. Dans les paramètres Android, activez **Metadidomi Board** dans **Langues et saisie** > **Clavier à l’écran** (le chemin peut varier selon l’appareil).
 4. Sélectionnez **Metadidomi Board** comme clavier actif, puis ouvrez un champ de texte.
